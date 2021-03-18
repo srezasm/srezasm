@@ -18,6 +18,6 @@
 <br />
 
 - 🔭 I’m currently working on improving my self
-- 🌱 I’m currently learning reactJs.Net Core
 - 👯 I’m looking to collaborate on team projects
+- 🌱 [Here](https://srezasm.github.io/Resume/) you can see my resume
 - 💬 Ask me about anything [here](https://github.com/srezasm/srezasm/issues)

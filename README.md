@@ -16,7 +16,7 @@
     <br>
     <p>I'm a learner and open source enthusiast.</p>
     <p>Always on the lookout for collaborating on interesting ones.</p>
-    <p>Check out my course/book notes at <a href="https://github.com/srezasm/obsidian-notes">srezasm/obsidian-notes</a></p>
+    <p>Check out my course/book notes at <a href="https://github.com/srezasm/course-notes">srezasm/course-notes</a></p>
     <br>
     <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" alt="python"/>
     <br>

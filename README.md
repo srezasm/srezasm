@@ -1,5 +1,5 @@
 <div align="center"> 
-    <h1>W31C0M3! me, SRezaS</h1>
+    <h1>W31C0M3, 1'm SRezaS</h1>
     <h3>Junior ML developer</h3>
     <a href="https://t.me/srzas">
         <img src="https://img.shields.io/badge/Channel-blue?style=flat-square&logo=telegram" alt="telegram channel"/>

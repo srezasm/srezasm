@@ -14,7 +14,6 @@
     <br>
     <p>Passionate about math and algorithms in programming</p>
     <p>Always on the lookout to collaborate on interesting projects</p>
-    <p>Check out my course/book notes at <a href="https://github.com/srezasm/course-notes">srezasm/course-notes</a></p>
     <br>
     <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" alt="python"/>
     <br>

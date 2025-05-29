@@ -3,7 +3,7 @@
         <h1>W31C0M3, 1'm SRezaS</h1>
         <a href="https://wakatime.com/@28db8ba5-0e34-4fa9-ab1e-4c118edf7fa2"><img src="https://wakatime.com/badge/user/28db8ba5-0e34-4fa9-ab1e-4c118edf7fa2.svg" alt="Total time coded since Sep 17 2023" /></a>
         <br>
-        <a href="https://www.linkedin.com/in/srezas">
+        <a href="https://www.linkedin.com/in/srezasm">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="linkedin"/>
         </a>
         <a href="https://leetcode.com/srezas/">
